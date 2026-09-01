@@ -111,6 +111,38 @@ Future versions of this project could:
 - Compare additional machine learning algorithms
 - Develop an interactive dashboard for salary analysis
 
+## 📊 Visualizations
+
+### Gender Distribution
+![Gender Distribution](visualizations/gender_distribution.png)
+
+### Salary Distribution
+![Salary Distribution](visualizations/salary_distribution.png)
+
+### Average Salary by Gender
+![Salary by Gender](visualizations/salary_by_gender.png)
+
+### Average Salary by Joining Year
+![Salary by Joining Year](visualizations/salary_by_joining_year.png)
+
+### Age Distribution
+![Age Distribution](visualizations/age_distribution.png)
+
+### Age vs Internship Salary
+![Age vs Salary](visualizations/age_vs_salary.png)
+
+### Correlation Matrix
+![Correlation Matrix](visualizations/correlation_matrix.png)
+
+### Salary Distribution — Box Plot
+![Salary Box Plot](visualizations/salary_boxplot.png)
+
+### Salary by Gender and Joining Year
+![Salary by Gender and Year](visualizations/salary_gender_year.png)
+
+### Random Forest Feature Importance
+![Feature Importance](visualizations/feature_importance.png)
+
 ## 📁 Repository Contents
 
 - `Internship_Salary_Analysis.ipynb` — Complete Python analysis and machine learning workflow
